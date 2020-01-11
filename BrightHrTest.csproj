@@ -56,8 +56,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BrightHrLogic\BrightHrLogic.csproj">
-      <Project>{c3736055-d172-4eb1-9be0-5c68c72691cf}</Project>
+    <ProjectReference Include="..\BrighHrLogic\BrightHrLogic.csproj">
+      <Project>{0d7a8647-46c2-4446-9d7b-ab0510c21e6f}</Project>
       <Name>BrightHrLogic</Name>
     </ProjectReference>
   </ItemGroup>
